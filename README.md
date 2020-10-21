@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Adonis SIMO (<a href="https://twitter.com/adonis__simo">@adonis__simo</a>)
-he/him, Python, Django, JavaScript, React*, AWS, Heroku, 🏀, ✨, 💪, 🏃.
+he/him, Python, Django, JavaScript, React(Js & Native), AWS, Heroku, 🏀, ✨, 💪, 🏃.
 
 <hr>
 
