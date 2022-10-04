@@ -25,3 +25,6 @@ he/him, Python, Django, JavaScript, React(Js & Native), AWS, Heroku, 🏀, ✨, 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simo97&layout=compact)]()
 
 <hr>
+
+
+<a href="https://app.daily.dev/adonis__simo"><img src="https://api.daily.dev/devcards/23a424fae42e4365ba481f13f4db1f81.png?r=z5h" width="400" alt="adonis simo's Dev Card"/></a>
