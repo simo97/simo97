@@ -27,4 +27,4 @@ he/him, Python, Django, JavaScript, React(Js & Native), AWS, Heroku, 🏀, ✨, 
 <hr>
  -->
 
-<a href="https://app.daily.dev/adonis__simo"><img src="https://api.daily.dev/devcards/23a424fae42e4365ba481f13f4db1f81.png?r=z5h" width="400" alt="adonis simo's Dev Card"/></a>
+<a href="https://app.daily.dev/adonissimo"><img src="https://api.daily.dev/devcards/e73e2669ce7c4177a901572cd5d75ec9.png?r=ikq" width="400" alt="adonis simo's Dev Card"/></a>
